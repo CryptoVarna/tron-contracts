@@ -1,0 +1,9 @@
+{
+    "globals": {
+        "artifacts": "readonly",
+        "contract": "readonly",
+        "assert": "readonly",
+        "expect": "readonly",
+        "tronWeb": "readonly"
+    }
+}

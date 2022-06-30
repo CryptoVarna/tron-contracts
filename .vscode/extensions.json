@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "juanblanco.solidity",
+        "dbaeumer.vscode-eslint",
+        "tintinweb.solidity-visual-auditor"
+    ]
+}
